@@ -1,82 +1,0 @@
-Hersh Patel
-50 Mitchell Ave, East Brunswick, NJ 08816
-patel.hersh@rutgers.edu | 732.853.3885
-www.hershpatel.com
-
-
-======
-
-
-Education
-
-RUTGERS UNIVERSITY (New Brunswick, NJ)
-Bachelor of Science in Computer Science and Economics, Minor in MathematicsCertification in Quantitative Economics, School of Arts and Sciences Honors Program
-Coursework: Data Structures, Data Science in R, Computer Architecture, Calculus IIICumulative GPA: 3.74/4.00, Major GPA: 3.89/4.00
-
-
-======
-
-
-Professional Experience
-
-NBCUniversal | Big Data Development Intern
-(June 2016 - Aug’ 2016 | Englewood Cliffs, NJ)• Analyzed Fandango’s customer data, with Hive and Spark, to craft a business plan that would increase user retention rate by 40%• Simplified a manual data retrieval process from 1 hour to 5 minutes by using Amazon S3 to automatically download data• Collaborated with the data engineering team to identify inconsistencies in Fandango’s transactional and log data for analytics
-
-ZK Technology | Technology Intern
-(July 2013 – Aug’ 2013 | Piscataway, NJ)
-• Minimized $5,000 in shipping costs by creating a shipping rate calculator in JavaScript with data from FedEx, UPS, and DHL• Visualized purchasing trends of all company products in Excel and PowerPoint to forecast product sales for the upcoming year
-
-Freelance Website & Application Developer | Developer & Designer
-(Sept’ 11 – Present | East Brunswick, NJ)
-• BAPS Robbinsville: Measured the demographics of events with over 10,000 people by building an Event Attendance Tracker in Swift• Amplifire Entertainment: Generated a 60% increase in client inquiries by revamping the website’s SEO with a modern UI/UX design
-• Other Projects: Palana USA (web), TEDxRutgers (web), Rutgers Delta Sigma Pi (web), Fred’s Summer School (web)
-
-
-======
-
-
-Activities 
-
-TEDxRutgers | President
-(Dec. 2015 – Present | Rutgers University)
-• Delegated various marketing, tech, finance, and design tasks to 30 team members to plan a conference for over 1,000 students in 3 months• Oversaw all technology related needs, including website development, audiovisual systems, and photography, for university-wide events
-
-Institute of Electric and Electronic Engineers | Machine Learning / Artificial Intelligence Team
-(Sept’ 2015 – Present | Rutgers University)
-• Engineered a facial recognition platform to predict the age and gender of a person by utilizing a Neural Network in Python• Interpreted decision tree models and permutation tests with the Random Forest, rpart, and MASS libraries in R to craft stories
-
-Delta Sigma Pi – Professional Business Fraternity | Professional Committee | Class President
-(Feb. 2016 - Present | Rutgers University)• Unified 19 members to raise $3500 in 8 weeks by partnering with local businesses to execute marketing campaigns on campus• Formed a detailed business proposal to successfully promote a mobile product in a new market for a speed case competition
-BAPS Charities | Regional Core Team Lead
-(Sept. 2011 – Present | Edison, NJ)
-• Cultivated a team of 18 members to lead annual regional conventions which host over 3,000 delegates and 300 volunteers• Accumulated 2,000 hours of community service in 4 years as a youth coordinator at the local community center
-
-Undergraduate Student Alliance of Computer Scientists | Peer Mentor
-(Sept. 2015 - Present | Rutgers University)• Orchestrated a series of website development tech talks on HTML, CSS, and Bootstrap to educate over 80 club members• Mentored underclassmen students in classes, coding projects, and professional development during bi-weekly meetings• Attended various Hackathons (PennApps, HackNY, BigRed//Hacks, HackRU)
-
-HackRU | Marketing Director
-(Jan. 2016 - Aug. 2016 | Rutgers University)• Coordinated with 8 teams and 10 sponsor organizations to direct a 24-hour event for over 600 students with a $35,000 budget• Stimulated a 30% increase in hacker/volunteer registration by implementing campaigns through social media and student representatives
-
-
-======
-
-
-Distinctions
-
-1st Place - Global Communications Innovation Project
-(2016 | NBCUniversal MediaTech Program)
-Led a 4 person cross-functional team (design, programming, analytics) in developing a chat bot that successfully incorporated NBC’s content
-
-Finalist - Google Case Competition
-(2015 | Google Community Leaders Program)
-Presented to achieve a 50% decrease in the New Brunswick digital divide by launching community out reach campaigns with students
-
-
-======
-
-
-Skills & Interests
-
-Programming: (proficient) Java, C, Python, R, SQL, HTML5, CSS3, UNIX; (familiar) JavaScript, Swift, IA-32, StataOther: (proficient) Hadoop, Hive, Eclipse, Bootstrap, RStudio, Xcode, Brackets, Maple, Microsoft Office Suite, Adobe Photoshop; (familiar) Spark, Amazon S3 Cloud, Pandas, NumPy, Jupyter Notebook, Adobe Illustrator
-Languages: (native) English, Gujarati; (conversational) Spanish
-Interests: Traveling, Kickstarter, Technology News, Running, Photography, Scenic Driving, Kite Flying
