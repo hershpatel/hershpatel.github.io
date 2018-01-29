@@ -3,10 +3,6 @@ title: About
 layout: page
 ---
 
-<span class="link">
-	<img class="selfie" alt="{{ site.name }}" src="{% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %}" />
-</span>
-
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <h2>Background</h2>
