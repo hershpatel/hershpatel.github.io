@@ -1,8 +1,7 @@
 
 ## Personal Website
-See here: <a href="http://sergiokopplin.github.io/indigo/" target="_blank">Demo</a>
+Here's a better look at the template I used - <a href="http://sergiokopplin.github.io/indigo/" target="_blank">Demo</a>
 
-***
 
 ## What's inside
 
