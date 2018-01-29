@@ -13,8 +13,8 @@ picture: assets/images/profile.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: false
-resume-external: true
-resume-url: https://hershpatel.github.io/resume/Hersh-Patel-Resume.pdf
+resume-external: false
+resume-url: resume/Hersh-Patel-Resume.pdf
 
 url: https://hershpatel.github.io
 # your url: http://USERNAME.github.io
@@ -43,6 +43,7 @@ linkedin: hershp
 # youtube: myyoutube
 spotify: phersh01
 github: hershpatel
+soundcloud: hershpatel
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -53,12 +54,11 @@ github: hershpatel
 email: patel.hersh@rutgers.edu
 
 authors:
-    johndoe:
+    hershpatel:
         name: Hersh Patel
         bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -70,7 +70,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: false
+projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
