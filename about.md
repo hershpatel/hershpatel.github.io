@@ -6,17 +6,17 @@ layout: page
 
 <h2>Background</h2>
 
-<hr>
-<p> Computer Science &amp; Economics @ Rutgers<br>
+<p> <b>What I'm learning</b><br>
+	Computer Science &amp; Economics @ Rutgers<br>
 	<i>Coursework:</i> Graduate Artifical Intelligence, Algorithms, Data Structures, Econometrics, Data Analytics in R
 
-<hr>
-<p> Incoming Software Engineering Intern @ <a href="https://amazon.com" target="_blank">Amazon</a> (Summer 2018)<br>
+<p> <b>Places I've worked</b><br>
+	Incoming Software Engineering Intern @ <a href="https://amazon.com" target="_blank">Amazon</a> (Summer 2018)<br>
 	Market Data Summer Analyst @ <a href="https://bloomberg.com" target="_blank">Bloomberg</a> (Summer 2017)<br>
 	Data Analytics Intern @ <a href="https://nbcuniversal.com" target="_blank">NBCUniversal</a> (Summer 2016) </p>
 
-<hr>
-<p> President @ <a href="http://tedxrutgers.com" target="_blank">TEDxRutgers</a> <br>
+<p> <b>Things I'm involed in</b><br>
+	President @ <a href="http://tedxrutgers.com" target="_blank">TEDxRutgers</a> <br>
 	Smart Cities - Research under <a href="https://www.cs.rutgers.edu/~dz220/" target="_blank">Professor Desheng Zhang</a><br>
 	<a href="https://rutgersdsp.org" target="_blank">Delta Sigma Pi</a> - Professional Business Fraternity </p>
 
