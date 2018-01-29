@@ -1,6 +1,6 @@
-<p align="center">
-    <h2 align="center">My Personal Website - <a href="http://sergiokopplin.github.io/indigo/" target="_blank">View Template</a></h2>
-</p>
+
+## Personal Website
+See here: <a href="http://sergiokopplin.github.io/indigo/" target="_blank">Demo</a>
 
 ***
 
@@ -13,12 +13,7 @@
 
 ## Setup
 
-0. :star: to the project. :metal:
-2. Fork the project [Indigo](https://github.com/sergiokopplin/indigo/fork)
-3. Edit `_config.yml` with your data
-4. Write some posts :bowtie:
-
-
----
-
-[MIT](http://kopplin.mit-license.org/) License © Sérgio Kopplin
+0. :star: to the project :metal:
+1. Fork the project [Indigo](https://github.com/sergiokopplin/indigo/fork)
+2. Edit `_config.yml` with your data
+3. Go live and look fresh :bowtie:
