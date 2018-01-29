@@ -16,11 +16,11 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>Python &bull; Java &bull; C &bull;</li>
-	<li>SQL &bull; R &bull; Stata</li>
-	<li>HTML &bull; CSS &bull; Flask &bull; Jekyll</li>
-	<li>Hadoop &bull; Hive &bull; Spark</li>
-	<li>Git &bull; AWS &bull; Bloomberg Terminal</li>
+	<li>Python - Java - C </li>
+	<li>SQL - R - Stata</li>
+	<li>HTML - CSS - Flask - Jekyll</li>
+	<li>Hadoop - Hive - Spark</li>
+	<li>Git - AWS - Bloomberg Terminal</li>
 </ul>
 
 <h2>Projects</h2>
