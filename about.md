@@ -17,7 +17,7 @@ layout: page
 
 <p> <b>What I'm learning</b><br>
 	Computer Science &amp; Economics @ Rutgers<br>
-	<i>Coursework:</i> Graduate Artifical Intelligence, Algorithms, Data Structures, Econometrics, Data Analytics in R
+	<i>Coursework:</i> Graduate Artifical Intelligence, Urban Development, Econometrics, Data Analytics in R, Algorithms, Data Structures
 
 <p> <b>Places I've worked</b><br>
 	Incoming Software Engineering Intern @ <a href="https://amazon.com" target="_blank">Amazon</a> (Summer 2018)<br>
@@ -27,6 +27,7 @@ layout: page
 <p> <b>Things I'm involed in</b><br>
 	President @ <a href="http://tedxrutgers.com" target="_blank">TEDxRutgers</a><br>
 	Smart Cities - Research under <a href="https://www.cs.rutgers.edu/~dz220/" target="_blank">Professor Desheng Zhang</a><br>
+	Youth Volunteer @ <a href="https://bapscharities.org" target="_blank">BAPS Charities</a><br>
 	<a href="https://rutgersdsp.org" target="_blank">Delta Sigma Pi</a> - Professional Business Fraternity </p>
 
 <h2>Skills</h2>
