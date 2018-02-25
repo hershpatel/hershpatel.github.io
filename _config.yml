@@ -94,6 +94,8 @@ show-author: true
 # do you want some animations?
 animation: true
 
+music: true
+
 plugins:
   - jekyll-seo-tag
   - jekyll-gist

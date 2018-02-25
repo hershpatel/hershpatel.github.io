@@ -36,6 +36,7 @@ layout: page
 	<li>Python - Java - C </li>
 	<li>SQL - R - Stata</li>
 	<li>HTML - CSS - Flask - Jekyll</li>
+	<li>Photoshop - Illustrator - InDesign</li>
 	<li>Hadoop - Hive - Spark</li>
 	<li>Git - AWS - Bloomberg Terminal</li>
 </ul>
@@ -43,5 +44,8 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/hershpatel" target="_blank">See GitHub</a></li>
+	<li><a href="http://tedxrutgers.com" target="_blank">TED<sup>x</sup>Rutgers</a></li>
+	<li><a href="http://www.rutgersdsp.org/" target="_blank">Delta Sigma Pi - Rho Tau</a></li>
+	<li><a href="http://amplifireentertainment.com/" target="_blank">Amplifire Entertainment</a></li>
+	<li><a href="https://github.com/hershpatel" target="_blank">See More on GitHub!</a></li>
 </ul>
