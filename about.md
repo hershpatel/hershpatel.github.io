@@ -47,5 +47,6 @@ layout: page
 	<li><a href="http://tedxrutgers.com" target="_blank">TEDxRutgers</a></li>
 	<li><a href="http://www.rutgersdsp.org/" target="_blank">Delta Sigma Pi - Rho Tau</a></li>
 	<li><a href="http://amplifireentertainment.com/" target="_blank">Amplifire Entertainment</a></li>
-	<li><a href="https://github.com/hershpatel" target="_blank">See More on GitHub!</a></li>
 </ul>
+
+<a href="https://github.com/hershpatel" target="_blank">See More</a>
