@@ -44,7 +44,7 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="http://tedxrutgers.com" target="_blank">TED<sup>x</sup>Rutgers</a></li>
+	<li><a href="http://tedxrutgers.com" target="_blank">TEDxRutgers</a></li>
 	<li><a href="http://www.rutgersdsp.org/" target="_blank">Delta Sigma Pi - Rho Tau</a></li>
 	<li><a href="http://amplifireentertainment.com/" target="_blank">Amplifire Entertainment</a></li>
 	<li><a href="https://github.com/hershpatel" target="_blank">See More on GitHub!</a></li>
