@@ -20,7 +20,7 @@ layout: page
 	<i>Coursework:</i> Graduate Artifical Intelligence, Urban Development, Econometrics, Data Analytics in R, Algorithms, Data Structures
 
 <p> <b>Where I've worked</b><br>
-	<!--Incoming Software Engineering Intern @ <a href="https://amazon.com" target="_blank">Amazon</a> (Summer 2018)<br>-->
+	Incoming Software Engineering Intern @ <a href="https://amazon.com" target="_blank">Amazon</a> (Summer 2018)<br>
 	Market Data Summer Analyst @ <a href="https://bloomberg.com" target="_blank">Bloomberg</a> (Summer 2017)<br>
 	Data Analytics Intern @ <a href="https://nbcuniversal.com" target="_blank">NBCUniversal</a> (Summer 2016) </p>
 
