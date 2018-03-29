@@ -44,6 +44,7 @@ linkedin: hershp
 spotify: phersh01
 github: hershpatel
 soundcloud: hershpatel
+bookshelf: hershpatel
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -95,6 +96,8 @@ show-author: true
 animation: true
 
 music: true
+
+books: true
 
 plugins:
   - jekyll-seo-tag
