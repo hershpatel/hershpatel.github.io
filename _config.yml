@@ -41,7 +41,7 @@ instagram: thehershpatel
 # pinterest: mypinterest
 linkedin: hershp
 # youtube: myyoutube
-spotify: phersh01
+#spotify: phersh01
 github: hershpatel
 soundcloud: hershpatel
 bookshelf: hershpatel
@@ -57,7 +57,7 @@ email: patel.hersh@rutgers.edu
 authors:
     hershpatel:
         name: Hersh Patel
-        bio: A Man who travels the world eating noodles
+        bio: Rutgers 19
         external-image: false
         picture: assets/images/profile.jpg
 

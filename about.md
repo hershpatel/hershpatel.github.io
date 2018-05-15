@@ -26,7 +26,7 @@ layout: page
 
 <p> <b>Things I'm involed in</b><br>
 	President @ <a href="http://tedxrutgers.com" target="_blank">TEDxRutgers</a><br>
-	Smart Cities - Research under <a href="https://www.cs.rutgers.edu/~dz220/" target="_blank">Professor Desheng Zhang</a><br>
+	Smart Cities - Independent Study under <a href="https://www.cs.rutgers.edu/~dz220/" target="_blank">Professor Desheng Zhang</a><br>
 	Youth Volunteer @ <a href="https://bapscharities.org" target="_blank">BAPS Charities</a><br>
 	<a href="https://rutgersdsp.org" target="_blank">Delta Sigma Pi</a> - Professional Business Fraternity </p>
 
@@ -44,8 +44,5 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="http://tedxrutgers.com" target="_blank">TEDxRutgers</a></li>
-	<li><a href="http://www.rutgersdsp.org/" target="_blank">Delta Sigma Pi - Rho Tau</a></li>
-	<li><a href="http://amplifireentertainment.com/" target="_blank">Amplifire Entertainment</a></li>
-	<li><a href="https://github.com/hershpatel" target="_blank">SEE MORE</a></li>
+	<li><a href="https://github.com/hershpatel" target="_blank">See GitHub</a></li>
 </ul>
